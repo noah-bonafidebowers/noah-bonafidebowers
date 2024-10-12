@@ -6,8 +6,6 @@
 - 😄 Pronouns: He/him/his
 - ⚡ Fun fact: I love Muay Thai
 
-- This blog is for a class, 
-
 <!---
 noah-bonafidebowers/noah-bonafidebowers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
